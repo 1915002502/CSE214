@@ -1,5 +1,5 @@
 # CSE214
-Problem Set 01 Part 01
+## Problem Set 01 Part 01
 
    * Array Declare
 
@@ -9,9 +9,9 @@ Problem Set 01 Part 01
 
    * Array Input
 
-   *Array Output
+   * Array Output
 
-Problem Set 02 Part 02
+## Problem Set 02 Part 02
 
    * Array Insert
 
